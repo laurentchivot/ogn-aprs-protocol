@@ -1,3 +1,4 @@
+This is the message description of the microtrak LoRaWAN tracker for the OGN platform
 
 MTK895B2D>OGNMTK,qAS,Microtrak:/195300h4849.11N/00216.49E'000/000/A=000472 !W72! id07895B2D
 MTK895B2D>OGNMTK,qAS,Microtrak:/195300h4849.11N/00216.49E'000/000/A=000472 !W72! id07895B2D
